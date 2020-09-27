@@ -38,7 +38,7 @@ ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 
 # 方法二： 使用 GitHub Actions（推荐使用）
-没有服务器的同学可以使用 GitHub Action 来进行运行此程序。
+没有服务器的同学可以使用 GitHub Action 来进行运行此程序!
 
 **请勿**直接修改`sub.py`内的登录账号和密码，Github的公开仓库的内容可以被所有人查看。
 
